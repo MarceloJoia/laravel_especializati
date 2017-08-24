@@ -1,0 +1,10 @@
+h1 {
+  font-size: 2em;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.btn-cadastrar {
+  margin-bottom: 10px;
+}
+
